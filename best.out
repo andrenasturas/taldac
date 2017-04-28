@@ -1,0 +1,1710 @@
+side.n 301 :: position
+side.n 302 :: position
+side.n 303 :: position
+side.n 304 :: position
+side.n 305 :: position
+side.n 306 :: position
+side.n 307 :: position
+side.n 308 :: position
+side.n 309 :: position
+side.n 310 :: position
+tell.v 311 :: order
+tell.v 312 :: state
+tell.v 313 :: state
+tell.v 314 :: order
+tell.v 315 :: state
+tell.v 316 :: state
+tell.v 317 :: order
+tell.v 318 :: order
+tell.v 319 :: order
+tell.v 320 :: order
+terrible.a 321 :: 
+terrible.a 322 :: 
+terrible.a 323 :: 
+terrible.a 324 :: 
+terrible.a 325 :: 
+terrible.a 326 :: 
+terrible.a 327 :: 
+terrible.a 328 :: 
+terrible.a 329 :: 
+terrible.a 330 :: 
+think.v 331 :: 
+think.v 332 :: 
+think.v 333 :: 
+think.v 334 :: 
+think.v 335 :: view
+think.v 336 :: 
+think.v 337 :: 
+think.v 338 :: 
+think.v 339 :: view
+think.v 340 :: recall
+thus.r 341 :: 
+thus.r 342 :: 
+thus.r 343 :: 
+thus.r 344 :: 
+thus.r 345 :: so
+thus.r 346 :: so
+thus.r 347 :: so
+thus.r 348 :: so
+thus.r 349 :: 
+thus.r 350 :: so
+wind.n 351 :: lead
+wind.n 352 :: lead
+wind.n 353 :: lead
+wind.n 354 :: winding
+wind.n 355 :: 
+wind.n 356 :: tip
+wind.n 357 :: tip
+wind.n 358 :: curve
+wind.n 359 :: lead
+wind.n 360 :: tip
+charge.v 361 :: level
+charge.v 362 :: level
+charge.v 363 :: level
+charge.v 364 :: level
+charge.v 365 :: level
+charge.v 366 :: level
+charge.v 367 :: level
+charge.v 368 :: level
+charge.v 369 :: level
+charge.v 370 :: level
+civil.a 371 :: 
+civil.a 372 :: 
+civil.a 373 :: 
+civil.a 374 :: 
+civil.a 375 :: 
+civil.a 376 :: 
+civil.a 377 :: 
+civil.a 378 :: 
+civil.a 379 :: 
+civil.a 380 :: 
+clean.v 381 :: clean
+clean.v 382 :: white
+clean.v 383 :: white
+clean.v 384 :: clean
+clean.v 385 :: white
+clean.v 386 :: white
+clean.v 387 :: white
+clean.v 388 :: white
+clean.v 389 :: white
+clean.v 390 :: white
+coach.n 391 :: manager
+coach.n 392 :: manager
+coach.n 393 :: manager
+coach.n 394 :: manager
+coach.n 395 :: train
+coach.n 396 :: manager
+coach.n 397 :: manager
+coach.n 398 :: train
+coach.n 399 :: manager
+coach.n 400 :: manager
+dry.a 401 :: 
+dry.a 402 :: 
+dry.a 403 :: 
+dry.a 404 :: 
+dry.a 405 :: 
+dry.a 406 :: 
+dry.a 407 :: 
+dry.a 408 :: 
+dry.a 409 :: 
+dry.a 410 :: 
+full.a 411 :: total
+full.a 412 :: total
+full.a 413 :: total
+full.a 414 :: total
+full.a 415 :: total
+full.a 416 :: 
+full.a 417 :: total
+full.a 418 :: total
+full.a 419 :: 
+full.a 420 :: total
+heap.n 421 :: deal
+heap.n 422 :: deal
+heap.n 423 :: lot
+heap.n 424 :: deal
+heap.n 425 :: deal
+heap.n 426 :: deal
+heap.n 427 :: deal
+heap.n 428 :: deal
+heap.n 429 :: lot
+heap.n 430 :: deal
+job.n 431 :: business
+job.n 432 :: business
+job.n 433 :: business
+job.n 434 :: business
+job.n 435 :: business
+job.n 436 :: business
+job.n 437 :: business
+job.n 438 :: business
+job.n 439 :: 
+job.n 440 :: business
+late.r 441 :: deep
+late.r 442 :: 
+late.r 443 :: 
+late.r 444 :: 
+late.r 445 :: 
+late.r 446 :: 
+late.r 447 :: deep
+late.r 448 :: 
+late.r 449 :: deep
+late.r 450 :: deep
+new.a 451 :: raw
+new.a 452 :: raw
+new.a 453 :: raw
+new.a 454 :: raw
+new.a 455 :: young
+new.a 456 :: raw
+new.a 457 :: raw
+new.a 458 :: raw
+new.a 459 :: raw
+new.a 460 :: raw
+often.r 461 :: 
+often.r 462 :: much
+often.r 463 :: much
+often.r 464 :: much
+often.r 465 :: much
+often.r 466 :: much
+often.r 467 :: 
+often.r 468 :: much
+often.r 469 :: much
+often.r 470 :: much
+only.r 471 :: 
+only.r 472 :: 
+only.r 473 :: 
+only.r 474 :: 
+only.r 475 :: 
+only.r 476 :: 
+only.r 477 :: 
+only.r 478 :: 
+only.r 479 :: 
+only.r 480 :: 
+pulse.n 481 :: 
+pulse.n 482 :: heartbeat
+pulse.n 483 :: heartbeat
+pulse.n 484 :: heartbeat
+pulse.n 485 :: heartbeat
+pulse.n 486 :: 
+pulse.n 487 :: 
+pulse.n 488 :: 
+pulse.n 489 :: 
+pulse.n 490 :: impulse
+put.v 491 :: position
+put.v 492 :: position
+put.v 493 :: 
+put.v 494 :: position
+put.v 495 :: position
+put.v 496 :: position
+put.v 497 :: position
+put.v 498 :: position
+put.v 499 :: position
+put.v 500 :: position
+really.r 501 :: 
+really.r 502 :: 
+really.r 503 :: 
+really.r 504 :: 
+really.r 505 :: 
+really.r 506 :: real
+really.r 507 :: real
+really.r 508 :: 
+really.r 509 :: 
+really.r 510 :: 
+return.v 511 :: yield
+return.v 512 :: yield
+return.v 513 :: yield
+return.v 514 :: yield
+return.v 515 :: yield
+return.v 516 :: yield
+return.v 517 :: yield
+return.v 518 :: yield
+return.v 519 :: yield
+return.v 520 :: yield
+shed.v 521 :: drop
+shed.v 522 :: drop
+shed.v 523 :: drop
+shed.v 524 :: drop
+shed.v 525 :: drop
+shed.v 526 :: drop
+shed.v 527 :: drop
+shed.v 528 :: drop
+shed.v 529 :: drop
+shed.v 530 :: drop
+softly.r 531 :: 
+softly.r 532 :: 
+softly.r 533 :: 
+softly.r 534 :: 
+softly.r 535 :: 
+softly.r 536 :: 
+softly.r 537 :: 
+softly.r 538 :: 
+softly.r 539 :: 
+softly.r 540 :: 
+special.a 541 :: extra
+special.a 542 :: extra
+special.a 543 :: extra
+special.a 544 :: extra
+special.a 545 :: extra
+special.a 546 :: extra
+special.a 547 :: extra
+special.a 548 :: extra
+special.a 549 :: extra
+special.a 550 :: extra
+way.n 551 :: style
+way.n 552 :: style
+way.n 553 :: style
+way.n 554 :: style
+way.n 555 :: style
+way.n 556 :: style
+way.n 557 :: style
+way.n 558 :: style
+way.n 559 :: style
+way.n 560 :: style
+about.r 561 :: 
+about.r 562 :: 
+about.r 563 :: 
+about.r 564 :: 
+about.r 565 :: 
+about.r 566 :: 
+about.r 567 :: 
+about.r 568 :: 
+about.r 569 :: 
+about.r 570 :: 
+bug.n 571 :: microbe
+bug.n 572 :: microbe
+bug.n 573 :: microbe
+bug.n 574 :: microbe
+bug.n 575 :: microbe
+bug.n 576 :: microbe
+bug.n 577 :: microbe
+bug.n 578 :: microbe
+bug.n 579 :: microbe
+bug.n 580 :: microbe
+bull.n 581 :: pig
+bull.n 582 :: pig
+bull.n 583 :: pig
+bull.n 584 :: pig
+bull.n 585 :: pig
+bull.n 586 :: pig
+bull.n 587 :: 
+bull.n 588 :: pig
+bull.n 589 :: pig
+bull.n 590 :: pig
+education.n 591 :: training
+education.n 592 :: training
+education.n 593 :: training
+education.n 594 :: training
+education.n 595 :: training
+education.n 596 :: training
+education.n 597 :: training
+education.n 598 :: training
+education.n 599 :: training
+education.n 600 :: training
+girl.n 601 :: daughter
+girl.n 602 :: daughter
+girl.n 603 :: daughter
+girl.n 604 :: daughter
+girl.n 605 :: daughter
+girl.n 606 :: daughter
+girl.n 607 :: daughter
+girl.n 608 :: daughter
+girl.n 609 :: daughter
+girl.n 610 :: daughter
+good.a 611 :: well
+good.a 612 :: well
+good.a 613 :: right
+good.a 614 :: well
+good.a 615 :: well
+good.a 616 :: well
+good.a 617 :: well
+good.a 618 :: well
+good.a 619 :: well
+good.a 620 :: well
+hard.r 621 :: heavy
+hard.r 622 :: heavy
+hard.r 623 :: heavy
+hard.r 624 :: heavy
+hard.r 625 :: heavy
+hard.r 626 :: heavy
+hard.r 627 :: heavy
+hard.r 628 :: heavy
+hard.r 629 :: heavy
+hard.r 630 :: heavy
+heavy.a 631 :: sound
+heavy.a 632 :: sound
+heavy.a 633 :: sound
+heavy.a 634 :: sound
+heavy.a 635 :: sound
+heavy.a 636 :: heavy
+heavy.a 637 :: sound
+heavy.a 638 :: sound
+heavy.a 639 :: sound
+heavy.a 640 :: sound
+instead.r 641 :: 
+instead.r 642 :: 
+instead.r 643 :: 
+instead.r 644 :: 
+instead.r 645 :: 
+instead.r 646 :: 
+instead.r 647 :: 
+instead.r 648 :: 
+instead.r 649 :: 
+instead.r 650 :: 
+live.a 651 :: experience
+live.a 652 :: experience
+live.a 653 :: experience
+live.a 654 :: last
+live.a 655 :: experience
+live.a 656 :: last
+live.a 657 :: 
+live.a 658 :: 
+live.a 659 :: last
+live.a 660 :: last
+mass.n 661 :: volume
+mass.n 662 :: volume
+mass.n 663 :: volume
+mass.n 664 :: volume
+mass.n 665 :: volume
+mass.n 666 :: volume
+mass.n 667 :: volume
+mass.n 668 :: volume
+mass.n 669 :: volume
+mass.n 670 :: volume
+match.n 671 :: rival
+match.n 672 :: couple
+match.n 673 :: rival
+match.n 674 :: rival
+match.n 675 :: rival
+match.n 676 :: rival
+match.n 677 :: rival
+match.n 678 :: couple
+match.n 679 :: rival
+match.n 680 :: rival
+mood.n 681 :: humour
+mood.n 682 :: humour
+mood.n 683 :: humour
+mood.n 684 :: humour
+mood.n 685 :: humour
+mood.n 686 :: humour
+mood.n 687 :: humour
+mood.n 688 :: humour
+mood.n 689 :: humour
+mood.n 690 :: humour
+phone.n 691 :: call
+phone.n 692 :: call
+phone.n 693 :: telephone
+phone.n 694 :: call
+phone.n 695 :: call
+phone.n 696 :: call
+phone.n 697 :: call
+phone.n 698 :: call
+phone.n 699 :: call
+phone.n 700 :: call
+post.n 701 :: position
+post.n 702 :: stake
+post.n 703 :: stake
+post.n 704 :: stake
+post.n 705 :: stake
+post.n 706 :: stake
+post.n 707 :: office
+post.n 708 :: stake
+post.n 709 :: office
+post.n 710 :: stake
+pound.n 711 :: pounding
+pound.n 712 :: pounding
+pound.n 713 :: pounding
+pound.n 714 :: pound
+pound.n 715 :: pounding
+pound.n 716 :: pounding
+pound.n 717 :: pounding
+pound.n 718 :: pounding
+pound.n 719 :: pounding
+pound.n 720 :: punt
+raw.a 721 :: crude
+raw.a 722 :: crude
+raw.a 723 :: crude
+raw.a 724 :: crude
+raw.a 725 :: crude
+raw.a 726 :: crude
+raw.a 727 :: crude
+raw.a 728 :: crude
+raw.a 729 :: crude
+raw.a 730 :: crude
+remainder.n 731 :: residue
+remainder.n 732 :: residue
+remainder.n 733 :: residue
+remainder.n 734 :: balance
+remainder.n 735 :: rest
+remainder.n 736 :: balance
+remainder.n 737 :: balance
+remainder.n 738 :: residue
+remainder.n 739 :: residue
+remainder.n 740 :: residue
+rude.a 741 :: crude
+rude.a 742 :: crude
+rude.a 743 :: crude
+rude.a 744 :: crude
+rude.a 745 :: crude
+rude.a 746 :: crude
+rude.a 747 :: crude
+rude.a 748 :: crude
+rude.a 749 :: crude
+rude.a 750 :: crude
+saint.n 751 :: angel
+saint.n 752 :: angel
+saint.n 753 :: angel
+saint.n 754 :: 
+saint.n 755 :: angel
+saint.n 756 :: angel
+saint.n 757 :: angel
+saint.n 758 :: angel
+saint.n 759 :: angel
+saint.n 760 :: angel
+still.a 761 :: calm
+still.a 762 :: calm
+still.a 763 :: calm
+still.a 764 :: calm
+still.a 765 :: calm
+still.a 766 :: calm
+still.a 767 :: calm
+still.a 768 :: calm
+still.a 769 :: calm
+still.a 770 :: calm
+straight.a 771 :: square
+straight.a 772 :: square
+straight.a 773 :: flat
+straight.a 774 :: square
+straight.a 775 :: square
+straight.a 776 :: square
+straight.a 777 :: flat
+straight.a 778 :: square
+straight.a 779 :: square
+straight.a 780 :: square
+strain.n 781 :: stock
+strain.n 782 :: stock
+strain.n 783 :: stock
+strain.n 784 :: stock
+strain.n 785 :: stock
+strain.n 786 :: stock
+strain.n 787 :: line
+strain.n 788 :: stock
+strain.n 789 :: stock
+strain.n 790 :: stock
+time.n 791 :: metre
+time.n 792 :: sentence
+time.n 793 :: metre
+time.n 794 :: sentence
+time.n 795 :: metre
+time.n 796 :: metre
+time.n 797 :: metre
+time.n 798 :: metre
+time.n 799 :: metre
+time.n 800 :: metre
+yard.n 801 :: thousand
+yard.n 802 :: thousand
+yard.n 803 :: thousand
+yard.n 804 :: thousand
+yard.n 805 :: thousand
+yard.n 806 :: thousand
+yard.n 807 :: thousand
+yard.n 808 :: thousand
+yard.n 809 :: thousand
+yard.n 810 :: thousand
+apparently.r 811 :: 
+apparently.r 812 :: 
+apparently.r 813 :: 
+apparently.r 814 :: 
+apparently.r 815 :: 
+apparently.r 816 :: 
+apparently.r 817 :: 
+apparently.r 818 :: 
+apparently.r 819 :: plain
+apparently.r 820 :: 
+around.r 821 :: round
+around.r 822 :: 
+around.r 823 :: round
+around.r 824 :: 
+around.r 825 :: round
+around.r 826 :: round
+around.r 827 :: round
+around.r 828 :: round
+around.r 829 :: 
+around.r 830 :: 
+away.r 831 :: 
+away.r 832 :: 
+away.r 833 :: 
+away.r 834 :: 
+away.r 835 :: 
+away.r 836 :: 
+away.r 837 :: 
+away.r 838 :: 
+away.r 839 :: 
+away.r 840 :: 
+blue.a 841 :: low
+blue.a 842 :: low
+blue.a 843 :: 
+blue.a 844 :: dark
+blue.a 845 :: low
+blue.a 846 :: dark
+blue.a 847 :: low
+blue.a 848 :: 
+blue.a 849 :: low
+blue.a 850 :: 
+check.v 851 :: condition
+check.v 852 :: condition
+check.v 853 :: condition
+check.v 854 :: condition
+check.v 855 :: condition
+check.v 856 :: condition
+check.v 857 :: 
+check.v 858 :: condition
+check.v 859 :: condition
+check.v 860 :: condition
+clear.v 861 :: gain
+clear.v 862 :: gain
+clear.v 863 :: gain
+clear.v 864 :: gain
+clear.v 865 :: gain
+clear.v 866 :: top
+clear.v 867 :: gain
+clear.v 868 :: gain
+clear.v 869 :: gain
+clear.v 870 :: make
+close.n 871 :: last
+close.n 872 :: last
+close.n 873 :: last
+close.n 874 :: last
+close.n 875 :: last
+close.n 876 :: last
+close.n 877 :: last
+close.n 878 :: last
+close.n 879 :: last
+close.n 880 :: last
+come.v 881 :: number
+come.v 882 :: number
+come.v 883 :: number
+come.v 884 :: number
+come.v 885 :: number
+come.v 886 :: number
+come.v 887 :: number
+come.v 888 :: number
+come.v 889 :: number
+come.v 890 :: number
+cry.v 891 :: shout
+cry.v 892 :: shout
+cry.v 893 :: shout
+cry.v 894 :: cry
+cry.v 895 :: call
+cry.v 896 :: shout
+cry.v 897 :: shout
+cry.v 898 :: shout
+cry.v 899 :: shout
+cry.v 900 :: shout
+dismiss.v 901 :: discount
+dismiss.v 902 :: discount
+dismiss.v 903 :: discount
+dismiss.v 904 :: discount
+dismiss.v 905 :: discount
+dismiss.v 906 :: discount
+dismiss.v 907 :: discount
+dismiss.v 908 :: drop
+dismiss.v 909 :: discount
+dismiss.v 910 :: discount
+draw.v 911 :: line
+draw.v 912 :: line
+draw.v 913 :: line
+draw.v 914 :: line
+draw.v 915 :: line
+draw.v 916 :: run
+draw.v 917 :: line
+draw.v 918 :: line
+draw.v 919 :: line
+draw.v 920 :: line
+earlier.r 921 :: early
+earlier.r 922 :: early
+earlier.r 923 :: early
+earlier.r 924 :: early
+earlier.r 925 :: early
+earlier.r 926 :: early
+earlier.r 927 :: 
+earlier.r 928 :: former
+earlier.r 929 :: early
+earlier.r 930 :: early
+entirely.r 931 :: 
+entirely.r 932 :: 
+entirely.r 933 :: 
+entirely.r 934 :: 
+entirely.r 935 :: 
+entirely.r 936 :: 
+entirely.r 937 :: 
+entirely.r 938 :: 
+entirely.r 939 :: 
+entirely.r 940 :: 
+forth.r 941 :: 
+forth.r 942 :: forward
+forth.r 943 :: forward
+forth.r 944 :: forward
+forth.r 945 :: forward
+forth.r 946 :: forward
+forth.r 947 :: forward
+forth.r 948 :: 
+forth.r 949 :: forward
+forth.r 950 :: forward
+fresh.a 951 :: new
+fresh.a 952 :: sweet
+fresh.a 953 :: clean
+fresh.a 954 :: 
+fresh.a 955 :: 
+fresh.a 956 :: 
+fresh.a 957 :: 
+fresh.a 958 :: clean
+fresh.a 959 :: 
+fresh.a 960 :: sweet
+go.v 961 :: work
+go.v 962 :: work
+go.v 963 :: work
+go.v 964 :: work
+go.v 965 :: move
+go.v 966 :: work
+go.v 967 :: move
+go.v 968 :: work
+go.v 969 :: work
+go.v 970 :: work
+let.v 971 :: lease
+let.v 972 :: lease
+let.v 973 :: lease
+let.v 974 :: lease
+let.v 975 :: lease
+let.v 976 :: lease
+let.v 977 :: lease
+let.v 978 :: lease
+let.v 979 :: lease
+let.v 980 :: lease
+liberal.a 981 :: 
+liberal.a 982 :: giving
+liberal.a 983 :: 
+liberal.a 984 :: 
+liberal.a 985 :: 
+liberal.a 986 :: 
+liberal.a 987 :: 
+liberal.a 988 :: 
+liberal.a 989 :: 
+liberal.a 990 :: 
+light.a 991 :: short
+light.a 992 :: short
+light.a 993 :: short
+light.a 994 :: fall
+light.a 995 :: short
+light.a 996 :: short
+light.a 997 :: short
+light.a 998 :: short
+light.a 999 :: short
+light.a 1000 :: short
+likewise.r 1001 :: 
+likewise.r 1002 :: 
+likewise.r 1003 :: 
+likewise.r 1004 :: 
+likewise.r 1005 :: 
+likewise.r 1006 :: 
+likewise.r 1007 :: 
+likewise.r 1008 :: 
+likewise.r 1009 :: 
+likewise.r 1010 :: 
+now.r 1011 :: today
+now.r 1012 :: 
+now.r 1013 :: 
+now.r 1014 :: 
+now.r 1015 :: 
+now.r 1016 :: 
+now.r 1017 :: today
+now.r 1018 :: 
+now.r 1019 :: 
+now.r 1020 :: 
+order.v 1021 :: rate
+order.v 1022 :: order
+order.v 1023 :: rate
+order.v 1024 :: club
+order.v 1025 :: rate
+order.v 1026 :: rate
+order.v 1027 :: rate
+order.v 1028 :: rate
+order.v 1029 :: rate
+order.v 1030 :: rate
+possibly.r 1031 :: 
+possibly.r 1032 :: 
+possibly.r 1033 :: 
+possibly.r 1034 :: 
+possibly.r 1035 :: 
+possibly.r 1036 :: 
+possibly.r 1037 :: 
+possibly.r 1038 :: 
+possibly.r 1039 :: 
+possibly.r 1040 :: 
+quick.a 1041 :: flying
+quick.a 1042 :: flying
+quick.a 1043 :: flying
+quick.a 1044 :: flying
+quick.a 1045 :: flying
+quick.a 1046 :: flying
+quick.a 1047 :: flying
+quick.a 1048 :: flying
+quick.a 1049 :: flying
+quick.a 1050 :: flying
+see.v 1051 :: project
+see.v 1052 :: view
+see.v 1053 :: view
+see.v 1054 :: view
+see.v 1055 :: view
+see.v 1056 :: view
+see.v 1057 :: view
+see.v 1058 :: view
+see.v 1059 :: view
+see.v 1060 :: figure
+shortly.r 1061 :: short
+shortly.r 1062 :: short
+shortly.r 1063 :: short
+shortly.r 1064 :: short
+shortly.r 1065 :: 
+shortly.r 1066 :: 
+shortly.r 1067 :: short
+shortly.r 1068 :: short
+shortly.r 1069 :: short
+shortly.r 1070 :: 
+skip.v 1071 :: cut
+skip.v 1072 :: cut
+skip.v 1073 :: cut
+skip.v 1074 :: cut
+skip.v 1075 :: cut
+skip.v 1076 :: cut
+skip.v 1077 :: cut
+skip.v 1078 :: cut
+skip.v 1079 :: cut
+skip.v 1080 :: cut
+solid.a 1081 :: firm
+solid.a 1082 :: 
+solid.a 1083 :: 
+solid.a 1084 :: firm
+solid.a 1085 :: firm
+solid.a 1086 :: 
+solid.a 1087 :: 
+solid.a 1088 :: 
+solid.a 1089 :: firm
+solid.a 1090 :: firm
+strong.a 1091 :: firm
+strong.a 1092 :: firm
+strong.a 1093 :: firm
+strong.a 1094 :: solid
+strong.a 1095 :: firm
+strong.a 1096 :: solid
+strong.a 1097 :: solid
+strong.a 1098 :: firm
+strong.a 1099 :: 
+strong.a 1100 :: firm
+suffer.v 1101 :: woe
+suffer.v 1102 :: support
+suffer.v 1103 :: support
+suffer.v 1104 :: support
+suffer.v 1105 :: support
+suffer.v 1106 :: support
+suffer.v 1107 :: support
+suffer.v 1108 :: support
+suffer.v 1109 :: support
+suffer.v 1110 :: ache
+tap.v 1111 :: tap
+tap.v 1112 :: tap
+tap.v 1113 :: tap
+tap.v 1114 :: tap
+tap.v 1115 :: 
+tap.v 1116 :: exploit
+tap.v 1117 :: intercept
+tap.v 1118 :: 
+tap.v 1119 :: strike
+tap.v 1120 :: tap
+therefore.r 1121 :: 
+therefore.r 1122 :: so
+therefore.r 1123 :: 
+therefore.r 1124 :: 
+therefore.r 1125 :: 
+therefore.r 1126 :: 
+therefore.r 1127 :: 
+therefore.r 1128 :: 
+therefore.r 1129 :: 
+therefore.r 1130 :: so
+touch.v 1131 :: concern
+touch.v 1132 :: concern
+touch.v 1133 :: concern
+touch.v 1134 :: concern
+touch.v 1135 :: concern
+touch.v 1136 :: concern
+touch.v 1137 :: concern
+touch.v 1138 :: concern
+touch.v 1139 :: concern
+touch.v 1140 :: concern
+worthy.a 1141 :: 
+worthy.a 1142 :: 
+worthy.a 1143 :: 
+worthy.a 1144 :: 
+worthy.a 1145 :: 
+worthy.a 1146 :: 
+worthy.a 1147 :: 
+worthy.a 1148 :: 
+worthy.a 1149 :: 
+worthy.a 1150 :: 
+account.n 1151 :: report
+account.n 1152 :: report
+account.n 1153 :: report
+account.n 1154 :: report
+account.n 1155 :: report
+account.n 1156 :: report
+account.n 1157 :: report
+account.n 1158 :: report
+account.n 1159 :: report
+account.n 1160 :: report
+acquire.v 1161 :: win
+acquire.v 1162 :: produce
+acquire.v 1163 :: win
+acquire.v 1164 :: win
+acquire.v 1165 :: win
+acquire.v 1166 :: win
+acquire.v 1167 :: win
+acquire.v 1168 :: produce
+acquire.v 1169 :: win
+acquire.v 1170 :: win
+acute.a 1171 :: 
+acute.a 1172 :: 
+acute.a 1173 :: 
+acute.a 1174 :: 
+acute.a 1175 :: 
+acute.a 1176 :: 
+acute.a 1177 :: keen
+acute.a 1178 :: 
+acute.a 1179 :: sharp
+acute.a 1180 :: 
+below.r 1181 :: 
+below.r 1182 :: 
+below.r 1183 :: 
+below.r 1184 :: 
+below.r 1185 :: 
+below.r 1186 :: 
+below.r 1187 :: 
+below.r 1188 :: 
+below.r 1189 :: 
+below.r 1190 :: 
+bring.v 1191 :: work
+bring.v 1192 :: work
+bring.v 1193 :: work
+bring.v 1194 :: work
+bring.v 1195 :: work
+bring.v 1196 :: work
+bring.v 1197 :: work
+bring.v 1198 :: work
+bring.v 1199 :: work
+bring.v 1200 :: work
+burst.v 1201 :: 
+burst.v 1202 :: split
+burst.v 1203 :: break
+burst.v 1204 :: split
+burst.v 1205 :: split
+burst.v 1206 :: split
+burst.v 1207 :: split
+burst.v 1208 :: break
+burst.v 1209 :: split
+burst.v 1210 :: split
+call.v 1211 :: visit
+call.v 1212 :: visit
+call.v 1213 :: visit
+call.v 1214 :: visit
+call.v 1215 :: visit
+call.v 1216 :: visit
+call.v 1217 :: visit
+call.v 1218 :: visit
+call.v 1219 :: visit
+call.v 1220 :: song
+caravan.n 1221 :: van
+caravan.n 1222 :: van
+caravan.n 1223 :: train
+caravan.n 1224 :: van
+caravan.n 1225 :: van
+caravan.n 1226 :: van
+caravan.n 1227 :: van
+caravan.n 1228 :: train
+caravan.n 1229 :: train
+caravan.n 1230 :: van
+carry.v 1231 :: stock
+carry.v 1232 :: run
+carry.v 1233 :: stock
+carry.v 1234 :: run
+carry.v 1235 :: run
+carry.v 1236 :: stock
+carry.v 1237 :: stock
+carry.v 1238 :: run
+carry.v 1239 :: stock
+carry.v 1240 :: run
+clear.a 1241 :: gain
+clear.a 1242 :: gain
+clear.a 1243 :: gain
+clear.a 1244 :: gain
+clear.a 1245 :: gain
+clear.a 1246 :: gain
+clear.a 1247 :: gain
+clear.a 1248 :: gain
+clear.a 1249 :: gain
+clear.a 1250 :: gain
+close.r 1251 :: last
+close.r 1252 :: last
+close.r 1253 :: last
+close.r 1254 :: last
+close.r 1255 :: last
+close.r 1256 :: last
+close.r 1257 :: last
+close.r 1258 :: last
+close.r 1259 :: last
+close.r 1260 :: last
+closely.r 1261 :: 
+closely.r 1262 :: close
+closely.r 1263 :: 
+closely.r 1264 :: 
+closely.r 1265 :: close
+closely.r 1266 :: 
+closely.r 1267 :: 
+closely.r 1268 :: 
+closely.r 1269 :: 
+closely.r 1270 :: 
+decline.v 1271 :: fall
+decline.v 1272 :: decline
+decline.v 1273 :: decline
+decline.v 1274 :: fall
+decline.v 1275 :: fall
+decline.v 1276 :: decline
+decline.v 1277 :: fall
+decline.v 1278 :: decline
+decline.v 1279 :: decline
+decline.v 1280 :: decline
+drop.v 1281 :: drop
+drop.v 1282 :: fall
+drop.v 1283 :: drop
+drop.v 1284 :: fall
+drop.v 1285 :: fall
+drop.v 1286 :: drop
+drop.v 1287 :: drop
+drop.v 1288 :: cast
+drop.v 1289 :: fall
+drop.v 1290 :: fall
+easy.a 1291 :: 
+easy.a 1292 :: 
+easy.a 1293 :: 
+easy.a 1294 :: 
+easy.a 1295 :: light
+easy.a 1296 :: light
+easy.a 1297 :: light
+easy.a 1298 :: light
+easy.a 1299 :: light
+easy.a 1300 :: 
+endure.v 1301 :: last
+endure.v 1302 :: last
+endure.v 1303 :: support
+endure.v 1304 :: last
+endure.v 1305 :: last
+endure.v 1306 :: last
+endure.v 1307 :: last
+endure.v 1308 :: last
+endure.v 1309 :: last
+endure.v 1310 :: weather
+extended.a 1311 :: offer
+extended.a 1312 :: offer
+extended.a 1313 :: offer
+extended.a 1314 :: offer
+extended.a 1315 :: offer
+extended.a 1316 :: run
+extended.a 1317 :: offer
+extended.a 1318 :: 
+extended.a 1319 :: run
+extended.a 1320 :: run
+external.a 1321 :: international
+external.a 1322 :: international
+external.a 1323 :: 
+external.a 1324 :: 
+external.a 1325 :: 
+external.a 1326 :: 
+external.a 1327 :: 
+external.a 1328 :: 
+external.a 1329 :: 
+external.a 1330 :: 
+field.n 1331 :: study
+field.n 1332 :: area
+field.n 1333 :: area
+field.n 1334 :: area
+field.n 1335 :: theatre
+field.n 1336 :: area
+field.n 1337 :: theatre
+field.n 1338 :: theatre
+field.n 1339 :: area
+field.n 1340 :: study
+flat.a 1341 :: level
+flat.a 1342 :: level
+flat.a 1343 :: level
+flat.a 1344 :: level
+flat.a 1345 :: level
+flat.a 1346 :: level
+flat.a 1347 :: level
+flat.a 1348 :: level
+flat.a 1349 :: level
+flat.a 1350 :: level
+forward.r 1351 :: 
+forward.r 1352 :: 
+forward.r 1353 :: 
+forward.r 1354 :: 
+forward.r 1355 :: 
+forward.r 1356 :: 
+forward.r 1357 :: 
+forward.r 1358 :: 
+forward.r 1359 :: 
+forward.r 1360 :: 
+fundamental.a 1361 :: key
+fundamental.a 1362 :: key
+fundamental.a 1363 :: key
+fundamental.a 1364 :: key
+fundamental.a 1365 :: key
+fundamental.a 1366 :: key
+fundamental.a 1367 :: key
+fundamental.a 1368 :: key
+fundamental.a 1369 :: key
+fundamental.a 1370 :: key
+get.v 1371 :: contract
+get.v 1372 :: aim
+get.v 1373 :: contract
+get.v 1374 :: aim
+get.v 1375 :: aim
+get.v 1376 :: contract
+get.v 1377 :: contract
+get.v 1378 :: aim
+get.v 1379 :: aim
+get.v 1380 :: aim
+hold.v 1381 :: property
+hold.v 1382 :: control
+hold.v 1383 :: control
+hold.v 1384 :: control
+hold.v 1385 :: control
+hold.v 1386 :: control
+hold.v 1387 :: control
+hold.v 1388 :: control
+hold.v 1389 :: control
+hold.v 1390 :: property
+informal.a 1391 :: 
+informal.a 1392 :: 
+informal.a 1393 :: 
+informal.a 1394 :: 
+informal.a 1395 :: 
+informal.a 1396 :: intimate
+informal.a 1397 :: 
+informal.a 1398 :: 
+informal.a 1399 :: 
+informal.a 1400 :: 
+inner.a 1401 :: inside
+inner.a 1402 :: inside
+inner.a 1403 :: interior
+inner.a 1404 :: inside
+inner.a 1405 :: inside
+inner.a 1406 :: 
+inner.a 1407 :: inside
+inner.a 1408 :: 
+inner.a 1409 :: inside
+inner.a 1410 :: 
+investigator.n 1411 :: researcher
+investigator.n 1412 :: researcher
+investigator.n 1413 :: researcher
+investigator.n 1414 :: researcher
+investigator.n 1415 :: researcher
+investigator.n 1416 :: researcher
+investigator.n 1417 :: researcher
+investigator.n 1418 :: researcher
+investigator.n 1419 :: researcher
+investigator.n 1420 :: researcher
+letter.n 1421 :: 
+letter.n 1422 :: 
+letter.n 1423 :: 
+letter.n 1424 :: 
+letter.n 1425 :: 
+letter.n 1426 :: 
+letter.n 1427 :: 
+letter.n 1428 :: 
+letter.n 1429 :: 
+letter.n 1430 :: 
+loud.a 1431 :: 
+loud.a 1432 :: 
+loud.a 1433 :: 
+loud.a 1434 :: 
+loud.a 1435 :: 
+loud.a 1436 :: 
+loud.a 1437 :: 
+loud.a 1438 :: 
+loud.a 1439 :: 
+loud.a 1440 :: 
+mad.a 1441 :: 
+mad.a 1442 :: 
+mad.a 1443 :: 
+mad.a 1444 :: 
+mad.a 1445 :: sore
+mad.a 1446 :: 
+mad.a 1447 :: 
+mad.a 1448 :: 
+mad.a 1449 :: 
+mad.a 1450 :: 
+make.v 1451 :: work
+make.v 1452 :: work
+make.v 1453 :: work
+make.v 1454 :: work
+make.v 1455 :: work
+make.v 1456 :: work
+make.v 1457 :: work
+make.v 1458 :: work
+make.v 1459 :: hold
+make.v 1460 :: hold
+mission.n 1461 :: charge
+mission.n 1462 :: charge
+mission.n 1463 :: commission
+mission.n 1464 :: commission
+mission.n 1465 :: commission
+mission.n 1466 :: commission
+mission.n 1467 :: commission
+mission.n 1468 :: commission
+mission.n 1469 :: commission
+mission.n 1470 :: commission
+near.r 1471 :: approach
+near.r 1472 :: approach
+near.r 1473 :: 
+near.r 1474 :: approach
+near.r 1475 :: good
+near.r 1476 :: good
+near.r 1477 :: approach
+near.r 1478 :: 
+near.r 1479 :: approach
+near.r 1480 :: approach
+open.a 1481 :: 
+open.a 1482 :: 
+open.a 1483 :: subject
+open.a 1484 :: spread
+open.a 1485 :: 
+open.a 1486 :: 
+open.a 1487 :: spread
+open.a 1488 :: spread
+open.a 1489 :: surface
+open.a 1490 :: 
+pot.n 1491 :: deal
+pot.n 1492 :: deal
+pot.n 1493 :: deal
+pot.n 1494 :: deal
+pot.n 1495 :: deal
+pot.n 1496 :: deal
+pot.n 1497 :: deal
+pot.n 1498 :: deal
+pot.n 1499 :: deal
+pot.n 1500 :: deal
+profound.a 1501 :: sound
+profound.a 1502 :: sound
+profound.a 1503 :: sound
+profound.a 1504 :: sound
+profound.a 1505 :: sound
+profound.a 1506 :: sound
+profound.a 1507 :: sound
+profound.a 1508 :: sound
+profound.a 1509 :: sound
+profound.a 1510 :: sound
+prominent.a 1511 :: 
+prominent.a 1512 :: 
+prominent.a 1513 :: 
+prominent.a 1514 :: 
+prominent.a 1515 :: 
+prominent.a 1516 :: 
+prominent.a 1517 :: 
+prominent.a 1518 :: striking
+prominent.a 1519 :: spectacular
+prominent.a 1520 :: 
+pull.v 1521 :: force
+pull.v 1522 :: tear
+pull.v 1523 :: tear
+pull.v 1524 :: drag
+pull.v 1525 :: drag
+pull.v 1526 :: force
+pull.v 1527 :: draw
+pull.v 1528 :: drag
+pull.v 1529 :: tear
+pull.v 1530 :: drag
+range.n 1531 :: order
+range.n 1532 :: rate
+range.n 1533 :: rate
+range.n 1534 :: rate
+range.n 1535 :: rate
+range.n 1536 :: rate
+range.n 1537 :: rate
+range.n 1538 :: rate
+range.n 1539 :: rate
+range.n 1540 :: rate
+rather.r 1541 :: 
+rather.r 1542 :: 
+rather.r 1543 :: 
+rather.r 1544 :: 
+rather.r 1545 :: 
+rather.r 1546 :: 
+rather.r 1547 :: 
+rather.r 1548 :: 
+rather.r 1549 :: 
+rather.r 1550 :: 
+render.v 1551 :: yield
+render.v 1552 :: yield
+render.v 1553 :: yield
+render.v 1554 :: yield
+render.v 1555 :: yield
+render.v 1556 :: yield
+render.v 1557 :: yield
+render.v 1558 :: supply
+render.v 1559 :: yield
+render.v 1560 :: yield
+rhythm.n 1561 :: round
+rhythm.n 1562 :: round
+rhythm.n 1563 :: round
+rhythm.n 1564 :: beat
+rhythm.n 1565 :: round
+rhythm.n 1566 :: round
+rhythm.n 1567 :: round
+rhythm.n 1568 :: round
+rhythm.n 1569 :: round
+rhythm.n 1570 :: round
+scene.n 1571 :: view
+scene.n 1572 :: view
+scene.n 1573 :: view
+scene.n 1574 :: view
+scene.n 1575 :: view
+scene.n 1576 :: view
+scene.n 1577 :: view
+scene.n 1578 :: view
+scene.n 1579 :: view
+scene.n 1580 :: view
+serious.a 1581 :: 
+serious.a 1582 :: 
+serious.a 1583 :: grave
+serious.a 1584 :: grave
+serious.a 1585 :: 
+serious.a 1586 :: grave
+serious.a 1587 :: 
+serious.a 1588 :: 
+serious.a 1589 :: 
+serious.a 1590 :: 
+shade.n 1591 :: shadow
+shade.n 1592 :: shadow
+shade.n 1593 :: shadow
+shade.n 1594 :: shadow
+shade.n 1595 :: shadow
+shade.n 1596 :: shadow
+shade.n 1597 :: shadow
+shade.n 1598 :: shadow
+shade.n 1599 :: ghost
+shade.n 1600 :: shadow
+so.r 1601 :: 
+so.r 1602 :: 
+so.r 1603 :: 
+so.r 1604 :: 
+so.r 1605 :: 
+so.r 1606 :: 
+so.r 1607 :: 
+so.r 1608 :: 
+so.r 1609 :: 
+so.r 1610 :: 
+soft.a 1611 :: mild
+soft.a 1612 :: 
+soft.a 1613 :: 
+soft.a 1614 :: 
+soft.a 1615 :: 
+soft.a 1616 :: 
+soft.a 1617 :: 
+soft.a 1618 :: 
+soft.a 1619 :: 
+soft.a 1620 :: piano
+soil.n 1621 :: land
+soil.n 1622 :: 
+soil.n 1623 :: land
+soil.n 1624 :: land
+soil.n 1625 :: land
+soil.n 1626 :: land
+soil.n 1627 :: land
+soil.n 1628 :: land
+soil.n 1629 :: land
+soil.n 1630 :: land
+steady.a 1631 :: calm
+steady.a 1632 :: firm
+steady.a 1633 :: firm
+steady.a 1634 :: calm
+steady.a 1635 :: 
+steady.a 1636 :: calm
+steady.a 1637 :: firm
+steady.a 1638 :: firm
+steady.a 1639 :: calm
+steady.a 1640 :: firm
+stiff.a 1641 :: firm
+stiff.a 1642 :: remains
+stiff.a 1643 :: remains
+stiff.a 1644 :: firm
+stiff.a 1645 :: remains
+stiff.a 1646 :: remains
+stiff.a 1647 :: remains
+stiff.a 1648 :: 
+stiff.a 1649 :: remains
+stiff.a 1650 :: remains
+strange.a 1651 :: 
+strange.a 1652 :: 
+strange.a 1653 :: 
+strange.a 1654 :: 
+strange.a 1655 :: 
+strange.a 1656 :: 
+strange.a 1657 :: 
+strange.a 1658 :: 
+strange.a 1659 :: 
+strange.a 1660 :: 
+strike.v 1661 :: move
+strike.v 1662 :: move
+strike.v 1663 :: move
+strike.v 1664 :: move
+strike.v 1665 :: move
+strike.v 1666 :: move
+strike.v 1667 :: move
+strike.v 1668 :: hit
+strike.v 1669 :: hit
+strike.v 1670 :: move
+suspect.v 1671 :: mistrust
+suspect.v 1672 :: mistrust
+suspect.v 1673 :: mistrust
+suspect.v 1674 :: mistrust
+suspect.v 1675 :: defendant
+suspect.v 1676 :: 
+suspect.v 1677 :: mistrust
+suspect.v 1678 :: mistrust
+suspect.v 1679 :: defendant
+suspect.v 1680 :: suspect
+tender.a 1681 :: bid
+tender.a 1682 :: bid
+tender.a 1683 :: bid
+tender.a 1684 :: bid
+tender.a 1685 :: bid
+tender.a 1686 :: bid
+tender.a 1687 :: bid
+tender.a 1688 :: bid
+tender.a 1689 :: tender
+tender.a 1690 :: tender
+test.n 1691 :: run
+test.n 1692 :: run
+test.n 1693 :: run
+test.n 1694 :: run
+test.n 1695 :: run
+test.n 1696 :: run
+test.n 1697 :: run
+test.n 1698 :: run
+test.n 1699 :: run
+test.n 1700 :: run
+throw.v 1701 :: project
+throw.v 1702 :: project
+throw.v 1703 :: hold
+throw.v 1704 :: project
+throw.v 1705 :: drop
+throw.v 1706 :: project
+throw.v 1707 :: make
+throw.v 1708 :: project
+throw.v 1709 :: hold
+throw.v 1710 :: hold
+tremendous.a 1711 :: 
+tremendous.a 1712 :: 
+tremendous.a 1713 :: 
+tremendous.a 1714 :: 
+tremendous.a 1715 :: 
+tremendous.a 1716 :: 
+tremendous.a 1717 :: 
+tremendous.a 1718 :: 
+tremendous.a 1719 :: 
+tremendous.a 1720 :: 
+true.a 1721 :: 
+true.a 1722 :: 
+true.a 1723 :: 
+true.a 1724 :: 
+true.a 1725 :: straight
+true.a 1726 :: 
+true.a 1727 :: 
+true.a 1728 :: 
+true.a 1729 :: 
+true.a 1730 :: 
+truly.r 1731 :: 
+truly.r 1732 :: 
+truly.r 1733 :: 
+truly.r 1734 :: 
+truly.r 1735 :: 
+truly.r 1736 :: 
+truly.r 1737 :: 
+truly.r 1738 :: 
+truly.r 1739 :: 
+truly.r 1740 :: 
+vital.a 1741 :: 
+vital.a 1742 :: 
+vital.a 1743 :: 
+vital.a 1744 :: 
+vital.a 1745 :: 
+vital.a 1746 :: 
+vital.a 1747 :: 
+vital.a 1748 :: 
+vital.a 1749 :: 
+vital.a 1750 :: 
+worldwide.a 1751 :: world
+worldwide.a 1752 :: world
+worldwide.a 1753 :: world
+worldwide.a 1754 :: general
+worldwide.a 1755 :: world
+worldwide.a 1756 :: world
+worldwide.a 1757 :: general
+worldwide.a 1758 :: world
+worldwide.a 1759 :: general
+worldwide.a 1760 :: world
+yet.r 1761 :: 
+yet.r 1762 :: 
+yet.r 1763 :: 
+yet.r 1764 :: 
+yet.r 1765 :: 
+yet.r 1766 :: 
+yet.r 1767 :: 
+yet.r 1768 :: 
+yet.r 1769 :: 
+yet.r 1770 :: 
+blow.n 1771 :: waste
+blow.n 1772 :: waste
+blow.n 1773 :: blast
+blow.n 1774 :: waste
+blow.n 1775 :: waste
+blow.n 1776 :: waste
+blow.n 1777 :: blast
+blow.n 1778 :: waste
+blow.n 1779 :: blast
+blow.n 1780 :: waste
+board.n 1781 :: panel
+board.n 1782 :: card
+board.n 1783 :: card
+board.n 1784 :: card
+board.n 1785 :: card
+board.n 1786 :: card
+board.n 1787 :: room
+board.n 1788 :: panel
+board.n 1789 :: card
+board.n 1790 :: card
+cap.n 1791 :: capital
+cap.n 1792 :: capital
+cap.n 1793 :: capital
+cap.n 1794 :: capital
+cap.n 1795 :: capital
+cap.n 1796 :: capital
+cap.n 1797 :: ceiling
+cap.n 1798 :: ceiling
+cap.n 1799 :: jacket
+cap.n 1800 :: capital
+change.v 1801 :: exchange
+change.v 1802 :: exchange
+change.v 1803 :: exchange
+change.v 1804 :: exchange
+change.v 1805 :: 
+change.v 1806 :: exchange
+change.v 1807 :: change
+change.v 1808 :: exchange
+change.v 1809 :: exchange
+change.v 1810 :: 
+charge.n 1811 :: level
+charge.n 1812 :: level
+charge.n 1813 :: level
+charge.n 1814 :: commission
+charge.n 1815 :: level
+charge.n 1816 :: bill
+charge.n 1817 :: level
+charge.n 1818 :: level
+charge.n 1819 :: level
+charge.n 1820 :: bill
+execution.n 1821 :: performance
+execution.n 1822 :: performance
+execution.n 1823 :: performance
+execution.n 1824 :: murder
+execution.n 1825 :: murder
+execution.n 1826 :: murder
+execution.n 1827 :: murder
+execution.n 1828 :: murder
+execution.n 1829 :: murder
+execution.n 1830 :: murder
+fall.v 1831 :: decline
+fall.v 1832 :: fall
+fall.v 1833 :: fall
+fall.v 1834 :: fall
+fall.v 1835 :: fall
+fall.v 1836 :: decline
+fall.v 1837 :: fall
+fall.v 1838 :: fall
+fall.v 1839 :: fall
+fall.v 1840 :: fall
+figure.n 1841 :: project
+figure.n 1842 :: project
+figure.n 1843 :: project
+figure.n 1844 :: project
+figure.n 1845 :: project
+figure.n 1846 :: project
+figure.n 1847 :: project
+figure.n 1848 :: project
+figure.n 1849 :: 
+figure.n 1850 :: project
+fire.v 1851 :: fuel
+fire.v 1852 :: fuel
+fire.v 1853 :: fuel
+fire.v 1854 :: fuel
+fire.v 1855 :: attack
+fire.v 1856 :: fuel
+fire.v 1857 :: fuel
+fire.v 1858 :: fuel
+fire.v 1859 :: fuel
+fire.v 1860 :: fuel
+function.n 1861 :: work
+function.n 1862 :: work
+function.n 1863 :: work
+function.n 1864 :: 
+function.n 1865 :: work
+function.n 1866 :: work
+function.n 1867 :: work
+function.n 1868 :: work
+function.n 1869 :: work
+function.n 1870 :: work
+jam.n 1871 :: block
+jam.n 1872 :: pack
+jam.n 1873 :: mob
+jam.n 1874 :: block
+jam.n 1875 :: block
+jam.n 1876 :: block
+jam.n 1877 :: block
+jam.n 1878 :: block
+jam.n 1879 :: block
+jam.n 1880 :: block
+lead.n 1881 :: run
+lead.n 1882 :: result
+lead.n 1883 :: result
+lead.n 1884 :: run
+lead.n 1885 :: run
+lead.n 1886 :: result
+lead.n 1887 :: run
+lead.n 1888 :: run
+lead.n 1889 :: result
+lead.n 1890 :: run
+paper.n 1891 :: report
+paper.n 1892 :: report
+paper.n 1893 :: report
+paper.n 1894 :: report
+paper.n 1895 :: report
+paper.n 1896 :: report
+paper.n 1897 :: report
+paper.n 1898 :: report
+paper.n 1899 :: report
+paper.n 1900 :: report
+pass.v 1901 :: return
+pass.v 1902 :: run
+pass.v 1903 :: offer
+pass.v 1904 :: loss
+pass.v 1905 :: offer
+pass.v 1906 :: loss
+pass.v 1907 :: offer
+pass.v 1908 :: offer
+pass.v 1909 :: offer
+pass.v 1910 :: return
+poor.a 1911 :: short
+poor.a 1912 :: short
+poor.a 1913 :: 
+poor.a 1914 :: short
+poor.a 1915 :: short
+poor.a 1916 :: short
+poor.a 1917 :: short
+poor.a 1918 :: short
+poor.a 1919 :: 
+poor.a 1920 :: 
+rest.n 1921 :: balance
+rest.n 1922 :: balance
+rest.n 1923 :: balance
+rest.n 1924 :: balance
+rest.n 1925 :: balance
+rest.n 1926 :: balance
+rest.n 1927 :: balance
+rest.n 1928 :: balance
+rest.n 1929 :: relief
+rest.n 1930 :: balance
+right.r 1931 :: 
+right.r 1932 :: 
+right.r 1933 :: 
+right.r 1934 :: 
+right.r 1935 :: 
+right.r 1936 :: 
+right.r 1937 :: 
+right.r 1938 :: 
+right.r 1939 :: 
+right.r 1940 :: 
+ring.n 1941 :: band
+ring.n 1942 :: band
+ring.n 1943 :: call
+ring.n 1944 :: band
+ring.n 1945 :: call
+ring.n 1946 :: call
+ring.n 1947 :: band
+ring.n 1948 :: band
+ring.n 1949 :: call
+ring.n 1950 :: band
+scrap.n 1951 :: dispute
+scrap.n 1952 :: dispute
+scrap.n 1953 :: dispute
+scrap.n 1954 :: dispute
+scrap.n 1955 :: dispute
+scrap.n 1956 :: dispute
+scrap.n 1957 :: dispute
+scrap.n 1958 :: dispute
+scrap.n 1959 :: dispute
+scrap.n 1960 :: dispute
+secret.a 1961 :: underground
+secret.a 1962 :: underground
+secret.a 1963 :: underground
+secret.a 1964 :: underground
+secret.a 1965 :: underground
+secret.a 1966 :: underground
+secret.a 1967 :: underground
+secret.a 1968 :: underground
+secret.a 1969 :: underground
+secret.a 1970 :: underground
+shot.n 1971 :: hit
+shot.n 1972 :: hit
+shot.n 1973 :: snapshot
+shot.n 1974 :: hit
+shot.n 1975 :: snapshot
+shot.n 1976 :: scene
+shot.n 1977 :: jibe
+shot.n 1978 :: hit
+shot.n 1979 :: scene
+shot.n 1980 :: hit
+show.v 1981 :: point
+show.v 1982 :: point
+show.v 1983 :: 
+show.v 1984 :: point
+show.v 1985 :: record
+show.v 1986 :: 
+show.v 1987 :: point
+show.v 1988 :: point
+show.v 1989 :: point
+show.v 1990 :: point
+wind.v 1991 :: 
+wind.v 1992 :: tip
+wind.v 1993 :: roll
+wind.v 1994 :: tip
+wind.v 1995 :: wind
+wind.v 1996 :: lead
+wind.v 1997 :: wind
+wind.v 1998 :: roll
+wind.v 1999 :: tip
+wind.v 2000 :: injury
+work.v 2001 :: work
+work.v 2002 :: process
+work.v 2003 :: work
+work.v 2004 :: work
+work.v 2005 :: work
+work.v 2006 :: process
+work.v 2007 :: work
+work.v 2008 :: process
+work.v 2009 :: work
+work.v 2010 :: work
