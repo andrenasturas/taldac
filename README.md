@@ -4,7 +4,7 @@ André Nasturas et Benjamin Loglisci
 
 ------
 
-Ce dépôt contient les codes sources de l'application de proposition de synonymes contextuels en fonction du contexte que nous avons réalisé dans le cadre du projet du cours de Traitement Automatisé du Langage naturel (TAL) du master Données Apprentissage et Connaissances (DAC) de l'Université Pierre et Marie Curie (UPMC).
+Ce dépôt contient les codes sources de l'application de proposition de synonymes en fonction du contexte que nous avons réalisé dans le cadre du projet du cours de Traitement Automatisé du Langage naturel (TAL) du master Données Apprentissage et Connaissances (DAC) de l'Université Pierre et Marie Curie (UPMC).
 
 ## Prérequis
 
@@ -12,9 +12,9 @@ Ce dépôt contient les codes sources de l'application de proposition de synonym
 
 Une base de données de relations sémantiques orientés entre les mots est nécessaire à l'utilisation de ce programme. En raison de son poids important, nous l'avons stocké en dehors du dépôt de code sources.
 
-Il s'agit d'un fichier CSV de 326.44 Mo que nous avons constitué en traitant une base déjà existante obtenue [https://github.com/hltfbk/Excitement-Open-Platform/wiki/English-Knowledge-Resources](ici).
+Il s'agit d'un fichier CSV de 326.44 Mo que nous avons constitué en traitant une base déjà existante obtenue dans [un autre projet GitHub](https://github.com/hltfbk/Excitement-Open-Platform/wiki/English-Knowledge-Resources).
 
-Ce fichier peut être téléchargé directement sur [https://www.dropbox.com/s/868k526d983qqdm/bap.csv?dl=0](Dropbox).
+Ce fichier peut être téléchargé directement sur [Dropbox](https://www.dropbox.com/s/868k526d983qqdm/bap.csv?dl=0).
 
 ### Dépendances Python
 
